@@ -8,8 +8,7 @@ tags: ["tcp", "网络"]
 categories: ["网络"]
 author: "去去"
 ---
-浅谈TCP优化
-=======
+
 很多人常常对[TCP优化](http://www.psc.edu/index.php/networking/641-tcp-tune)有一种雾里看花的感觉，实际上只要理解了TCP的运行方式就能掀开它的神秘面纱。[Ilya Grigorik](http://www.igvita.com/) 在「[High Performance Browser Networking](http://chimera.labs.oreilly.com/books/1230000000545/index.html)」中做了很多细致的描述，让人读起来醍醐灌顶，我大概总结了一下，以期更加通俗易懂。
 
 流量控制
