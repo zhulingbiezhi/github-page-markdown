@@ -5,7 +5,7 @@ weight: 170
 keywords: ["mysql"]
 description: "彻底解决mysql中文乱码"
 tags: ["mysql"]
-categories: ["mysql"]
+categories: ["转载"]
 author: "去去"
 ---
 

@@ -5,10 +5,10 @@ weight: 170
 keywords: ["kubernetes"]
 description: "Kubernetes核心组件解析"
 tags: ["kubernetes", "分布式"]
-categories: ["kubernetes"]
+categories: ["转载"]
 author: "去去"
 --- 
-众所周知，Kubernetes是目前最为火热的容器编排工具之一，其背后有如此多的追随者必然是有原因的。首先Kubernetes非常轻量，通常Kubernetes都是以容器作为载体，而容器本来就具有轻量级秒级部署的特点；再者Kubernetes有火热的开源社区，自从Kubernetes加入CNCF（Cloud Native Computing Foundation，云原生计算基金会）后，来自世界各地的许多容器开发者参与其中，其中不乏有像Redhat、IBM、华为等大厂的开发人员，因此良好的生态圈成为了最受关注的原因之一。  
+众所周知，Kubernetes是目前最为火热的容器编排工具之一，其背后有如此多的追随者必然是有原因的。首先Kubernetes非常轻量，通常Kubernetes都是以容器作为载体，而容器本来就具有轻量级秒级部署的特点；再者Kubernetes有火热的开源社区，自从Kubernetes加入CNCF（Cloud Native Computing Foundation，云原生计算基金会）后，来自世界各地的许多容器开发者参与其中，其中不乏有像Redhat、IBM、华为等大厂的开发人员，因此良好的生态圈成为了最受关注的原因之一。   
   
 在Kubernetes中部署应用是一件容易的事，因其有着弹性伸缩，横向扩展的优势并同时提供负载均衡能力以及良好的自愈性（自动部署、自动重启、自动复制、自动扩展等），那么这些Kubernetes的优势在集群中又是如何被体现出来的呢？   
 

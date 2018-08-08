@@ -5,7 +5,7 @@ weight: 170
 keywords: ["tcp"]
 description: "浅谈TCP优化"
 tags: ["tcp", "网络"]
-categories: ["网络"]
+categories: ["转载"]
 author: "去去"
 ---
 

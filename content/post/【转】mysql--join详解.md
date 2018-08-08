@@ -5,7 +5,7 @@ weight: 170
 keywords: ["mysql"]
 description: "mysql  Join详解"
 tags: ["mysql"]
-categories: ["mysql"]
+categories: ["转载"]
 author: "去去"
 ---  
 ---

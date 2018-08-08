@@ -5,7 +5,7 @@ weight: 170
 keywords: ["kubernetes"]
 description: "kubernetes调度详解"
 tags: ["kubernetes", "分布式"]
-categories: ["kubernetes"]
+categories: ["转载"]
 author: "去去"
 ---  
 【编者的话】优良的调度是分布式系统的核心。Scheduler调度器做为Kubernetes三大核心组件之一， 承载着整个集群资源的调度功能，其根据特定调度算法和策略，将Pod调度到最优工作节点上，从而更合理与充分的利用集群计算资源，使资源更好的服务于业务服务的需求。  

@@ -5,7 +5,7 @@ weight: 170
 keywords: ["etcd"]
 description: "etcd3-server-API"
 tags: ["etcd", "分布式"]
-categories: ["etcd"]
+categories: ["原创"]
 author: "去去"
 ---  
 > etcd3项目分为两部分，一是etcd clientv3，一是etcd3 server。etcd3与etcd2是不同的代码实现，同时etcd3 server支持etcd2 api，但是数据不是共用的，V2和V3 server分别独立维护自己的数据。

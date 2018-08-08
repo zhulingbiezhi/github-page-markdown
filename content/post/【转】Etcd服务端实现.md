@@ -5,7 +5,7 @@ weight: 170
 keywords: ["etcd"]
 description: "Etcd服务端实现"
 tags: ["etcd", "分布式"]
-categories: ["分布式"]
+categories: ["转载"]
 author: "去去"
 ---  
 7.1　Etcd启动
